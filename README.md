@@ -1,0 +1,3 @@
+Implementation of [More Pantheons](https://steamcommunity.com/sharedfiles/filedetails/?id=177505230) by [Barrowulf](https://steamcommunity.com/id/LordBarrowulf) for Unciv.
+
+Requires [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World/tree/main) by [RobLoach](https://github.com/RobLoach) and [More Luxuries](https://github.com/artkolobok/More-Luxuries/tree/master) by [artkolobok](https://github.com/artkolobok).
